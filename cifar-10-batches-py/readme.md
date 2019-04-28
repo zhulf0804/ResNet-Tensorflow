@@ -1,0 +1,1 @@
+The cifar10 data(python version) download [here](https://www.cs.toronto.edu/~kriz/cifar.html).
